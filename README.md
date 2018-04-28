@@ -187,3 +187,6 @@ protoc --plugin=/protobuf/protoc-gen-objc MessageBuf.proto --object_out="/protob
 ```
 
 Notes. You can add QQ group to download protobuf compiler
+
+http://www.linkedkeeper.com/detail/blog.action?bid=110
+http://www.linkedkeeper.com/detail/blog.action?bid=1042
